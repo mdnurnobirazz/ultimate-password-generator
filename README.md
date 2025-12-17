@@ -7,12 +7,17 @@
 ### ⚠️ Only for Ethical Penetration Testing!
 
 ### ✨ Features
-- 🔑 Generate custom password list from personal info (name, birthdate, phone etc.)
-- 🎲 Random strong password generator
-- 📊 Password strength checker
-- 🔤 Leet speak converter
-- 📜 View & clean old lists
-- 🌈 Beautiful colorful interface
+- 🌟 Generate Password List from personal info (name, birthdate, phone etc.)
+- 🔐 Random Strong Password Generator
+- 🔍 Password Strength Checker
+- 🔤 Leet Speak Converter
+- 📄 Merge Custom Wordlist
+- 📜 View Last Generated List
+- 🗑️ Clean Old Lists
+- 🔗 Follow & Support
+- 📖 About Tool
+
+### 🌈 Beautiful colorful interface with 10 options menu!
 
 ### 🚀 Installation
 ```bash
